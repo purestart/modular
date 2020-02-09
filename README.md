@@ -1,6 +1,10 @@
-# nine
+## 项目描述
 
-> A Vue.js project
+> parent: 配置中心
+> common: 公共组件库
+> base: 基础平台
+> fun: 功能模块（插件）
+> main: 主项目 / 聚合项目
 
 ## Build Setup
 
