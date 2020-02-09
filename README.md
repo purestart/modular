@@ -10,6 +10,8 @@
 
 > main: 主项目 / 聚合项目
 
+为了解决公司大型项目的单页面项目问题，自行开发一个微前端框架（modular）,目前该框架已平稳应用在公司多个项目上一年多，现在用业余时间把部分关键代码开源出来(未完善)，使用过程中有什么疑问或者有前端项目需要拆分成微服务的大家可以联系我 522382456@qq.com
+
 ## 微前端拆分原理
 
 <img src="https://gitee.com/_pure/codes/iuwzj39fhobstemc6an8249/raw?blob_name=modular1.png" >
