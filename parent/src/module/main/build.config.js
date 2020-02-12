@@ -1,7 +1,7 @@
 module.exports = {
   platform: {
     name: 'hyy',
-    title: '新辰星 慧影云V1.0.0'
+    title: 'modular微服务'
   },
   plugins: [
     {
@@ -11,9 +11,9 @@ module.exports = {
       folder: 'base'
     }
     // {
-    //   name: '票券系统',
+    //   name: 'xx系统',
     //   path: 'coupon',
-    //   title: '票券系统',
+    //   title: 'xx系统',
     //   folder: 'xxx',
     //   noMenuRoutes:'xxxNoMenuRoutes'
     //   // customRoutes: 'znyfCcm'  //自定义路由
